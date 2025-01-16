@@ -22,7 +22,7 @@ Mathwork's Matlab on Ramp course has been completed as a prerequiste to this cou
 - Using Matlab, performing Histogram Equalization
    - Using GUI
 
-![Output](https://github.com/mohittalwar23/DIP-Lab/blob/main/lab1out.png?raw=true)
+![Output](https://github.com/mohittalwar23/DIP-Lab/blob/main/lab2out.png?raw=true)
 
 ## Author
 
