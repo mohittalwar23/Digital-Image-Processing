@@ -25,6 +25,12 @@ Mathwork's Matlab on Ramp course has been completed as a prerequiste to this cou
 
 ![Output](https://github.com/mohittalwar23/DIP-Lab/blob/main/lab2out.png?raw=true)
 
+### - LAB Task 3  @ 16-01-2025
+- Using Matlab, performing Bit Plane Slicing
+   - Using GUI
+
+![Output](https://github.com/mohittalwar23/DIP-Lab/blob/main/lab3out.png?raw=true)
+
 ## Author
 
 - [@mohittalwar23](https://www.github.com/mohittalwar23)
