@@ -31,6 +31,11 @@ Mathwork's Matlab on Ramp course has been completed as a prerequiste to this cou
 
 ![Output](https://github.com/mohittalwar23/DIP-Lab/blob/main/lab3out.png?raw=true)
 
+### - LAB Task 4  @ 13-02-2025
+- Using Matlab, performing Shanon Fano Encoding
+
+![Output](https://github.com/mohittalwar23/DIP-Lab/blob/main/lab4out.png?raw=true)
+
 ## Author
 
 - [@mohittalwar23](https://www.github.com/mohittalwar23)
